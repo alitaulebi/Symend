@@ -1,6 +1,6 @@
 # Symend
  
-To run the code, copy Symend_Project.py and dev.ini files to your Home dirctory and change dev.ini file contents.
+To run the code, copy Symend_Project.py and dev.ini files to your Home dirctory and change dev.ini file contents as follows.
 In dev.ini file, the first line after [settings] is the search directory and the second line served as log file.
 
 
